@@ -1,6 +1,7 @@
-👋 Welcome to my GitHub profile, my name is <b>Fabio Gianlorenzo</b> and i have a degree in <b>Informatic and Telecommunications Engineering</b>.
+![GarfieldHelloGIF](https://github.com/Fabix1983/Fabix1983/assets/149963958/8a0c2232-a783-4c44-8424-73a8534244d7)
+Welcome to my GitHub profile, my name is <h3><b>Fabio Gianlorenzo</b></h3> and i have a degree in <b>Informatic and Telecommunications Engineering</b>.
 
-I am a ⚡Back-End Developer, ⚡Software Engineer and ⚡Data Engineer.
+I am a ⚡<b>Back-End Developer</b>, ⚡<b>Software Engineer</b> and ⚡<b>Data Engineer</b>.
 
 I have a good experience in Microsoft environments and languages, in particular in the creation of <b>Web Apps, Api Rest, CRM, Web Site, Console App, Data Transformation Services (DTS), billing procedures, E-commerce, CRUD operations, storage and processing data</b>.
 
