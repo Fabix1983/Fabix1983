@@ -1,5 +1,4 @@
-![WaveEmojiGIF](https://github.com/Fabix1983/Fabix1983/assets/149963958/dc65acf3-0a55-43f8-aa94-91ece58aee9d)
-Welcome to my GitHub profile, my name is <h3><b>Fabio Gianlorenzo</b></h3> and i have a degree in <b>Informatic and Telecommunications Engineering</b>.
+Welcome to my GitHub profile, my name is <h3><b><i>Fabio Gianlorenzo</i></b></h3> and i have a degree in 📝<b>Informatic and Telecommunications Engineering</b>.
 
 I am a ⚡<b>Back-End Developer</b>, ⚡<b>Software Engineer</b> and ⚡<b>Data Engineer</b>.
 
