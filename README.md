@@ -1,9 +1,6 @@
 👋 Welcome to my GitHub profile, my name is 
 
-![divider-7736911_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/e4d7f81f-9aed-41db-9e9b-9918d0e2ea79)
-
 ![divider-7736927_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/e5f87217-5d35-46cf-abf5-ddb566ce5213)
-
 
 and i have a degree in 📜<b>Informatic and Telecommunications Engineering</b>.
 
