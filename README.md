@@ -12,5 +12,3 @@ Among my technical knowledge, the main ones are the use of <b>✨C#, ✨VB-NET, 
 
 I hope you can find useful information and resources in my repositories.👋
 
-![divider-7736875_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/02dfa1d2-b147-467d-acbb-deab58034e73)
-
