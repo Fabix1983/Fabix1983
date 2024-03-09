@@ -5,6 +5,5 @@ I am a ⚡<b>Back-End Developer</b>, ⚡<b>Software Engineer</b> and ⚡<b>Data 
 I have a good experience in Microsoft environments and languages, in particular in the creation of <b>Web Apps, Api Rest, CRM, Web Site, Console App, Data Transformation Services (DTS), billing procedures, e-commerce, CRUD operations, storage and processing data</b>.
 
 Among my technical knowledge, the main ones are the use of <b>✨C#, ✨VB-NET, ✨VBScript, ✨ASP.NET Web Forms, ✨ASP.NET MVC, ✨ASP.NET Core, ✨Classic ASP, ✨TSQL, ✨SQL Server, ✨Visual Studio Code, ✨SQL Server Management Studio </b>and<b> ✨Visual Studio Community</b>.
-![divider-7551966_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/6f4b8e9f-e48e-49c9-9382-d32db6e514ec)
 
 I hope you can find useful information and resources in my repositories.👋
