@@ -8,4 +8,4 @@ Among my technical knowledge, the main ones are the use of <b>✨C#, ✨VB-NET, 
 
 I hope you can find useful information and resources in my repositories.👋
 
-![divider-2461548_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/70f8fb91-3f1a-481e-b38c-2d6a79974810)
+![divider-7551966_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/6e66f215-5a9d-4c25-973b-e977679dcd03)
