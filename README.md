@@ -1,4 +1,8 @@
-👋 Welcome to my GitHub profile, my name is <h3><b><i>Fabio Gianlorenzo</i></b></h3> and i have a degree in 📜<b>Informatic and Telecommunications Engineering</b>.
+👋 Welcome to my GitHub profile, my name is 
+
+![divider-7736927_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/d84e8bc9-c45a-4b94-bb0c-077c9f321d58)
+
+and i have a degree in 📜<b>Informatic and Telecommunications Engineering</b>.
 
 I am a ⚡<b>Back-End Developer</b>, ⚡<b>Software Engineer</b> and ⚡<b>Data Engineer</b>.
 
