@@ -11,5 +11,6 @@ I have a good experience in Microsoft environments and languages, in particular 
 Among my technical knowledge, the main ones are the use of <b>✨C#, ✨VB-NET, ✨VBScript, ✨ASP.NET Web Forms, ✨ASP.NET MVC, ✨ASP.NET Core, ✨Classic ASP, ✨TSQL, ✨SQL Server, ✨Visual Studio Code, ✨SQL Server Management Studio </b>and<b> ✨Visual Studio Community</b>.
 
 I hope you can find useful information and resources in my repositories.👋
-![divider-7625983_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/b3e32025-cdc9-40d7-92ae-81ccbc74a83d)
+![divider-7551966_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/c5e6402d-03cb-461a-a72c-cdf7f0392d8a)
+
 
