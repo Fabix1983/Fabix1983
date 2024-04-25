@@ -8,6 +8,6 @@ I have a good experience in Microsoft environments and languages, in particular 
 
 Among my technical knowledge, the main ones are <b>✨C#, ✨VB-NET, ✨VBScript, ✨ASP.NET Web Forms, ✨ASP.NET MVC, ✨ASP.NET Core, ✨Classic ASP, ✨T-SQL, ✨SQL Server, ✨Visual Studio Code, ✨SQL Server Management Studio </b>and<b> ✨Visual Studio Community</b>.
 
-I hope you can find useful information and resources in my repositories.!.
+I hope you can find useful information and resources in my repositories.
 
 
