@@ -1,4 +1,4 @@
-👋 Welcome to my <b>GitHub profile</b>, my name is 
+👋 Welcome to my <b>GitHub profile</b>, my name is
 
 ![divider-7736927_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/e5f87217-5d35-46cf-abf5-ddb566ce5213)
 
