@@ -10,4 +10,4 @@ Among my technical knowledge, the main ones are <b>✨C#, ✨VB-NET, ✨VBScript
 
 Here you can see my personal projects and code examples.
 
-I hope you can find useful information and resources in my repositories ✔️ 
+I hope you can find useful information and resources in my repositories ✔️
