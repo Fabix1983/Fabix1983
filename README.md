@@ -1,4 +1,4 @@
-👋 Welcome to my <b>GitHub profile</b>, my name is <b><c><h3>Fabio Gianlorenzo</h3></c></b>
+👋 Welcome to my <b>GitHub profile</b>, my name is <b><i><h3>Fabio Gianlorenzo</h3></i></b>
 
 I have a degree in 📜<b>Informatic and Telecommunications Engineering</b> and i am a ⚡<b>Back-End Developer</b>, ⚡<b>Software Engineer</b> and ⚡<b>Data Engineer</b>.
 
@@ -10,4 +10,4 @@ Here you can see my personal projects and code examples.
 
 I hope you can find useful information and resources in my repositories ✔️ 
 
-![waves-5437897_640](https://github.com/user-attachments/assets/425eb6cf-c604-4e3f-a610-ae0747cedbd0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![waves-5437897_640](https://github.com/user-attachments/assets/425eb6cf-c604-4e3f-a610-ae0747cedbd0)
