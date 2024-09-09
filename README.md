@@ -1,6 +1,6 @@
 👋 Welcome to my <b>GitHub profile</b>, my name is
 
-![divider-7736911_640](https://github.com/user-attachments/assets/044d8920-98ad-41d6-88c2-12e823ba3630)
+![waves-5437897_640 - Copia](https://github.com/user-attachments/assets/22211f15-4529-40ff-88f3-7f71694475be)
 
 I have a degree in 📜<b>Informatic and Telecommunications Engineering</b> and i am a ⚡<b>Back-End Developer</b>, ⚡<b>Software Engineer</b> and ⚡<b>Data Engineer</b>.
 
