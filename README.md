@@ -1,6 +1,4 @@
-👋 Welcome to my <b>GitHub profile</b>, my name is
-
-![waves-5437897_640 - Copia](https://github.com/user-attachments/assets/22211f15-4529-40ff-88f3-7f71694475be)
+👋 Welcome to my <b>GitHub profile</b>, my name is <b><c><h3>Fabio Gianlorenzo</h3></c></b>
 
 I have a degree in 📜<b>Informatic and Telecommunications Engineering</b> and i am a ⚡<b>Back-End Developer</b>, ⚡<b>Software Engineer</b> and ⚡<b>Data Engineer</b>.
 
@@ -11,3 +9,5 @@ Among my technical knowledge, the main ones are <b>✨C#, ✨VB-NET, ✨VBScript
 Here you can see my personal projects and code examples.
 
 I hope you can find useful information and resources in my repositories ✔️ 
+
+![waves-5437897_640](https://github.com/user-attachments/assets/425eb6cf-c604-4e3f-a610-ae0747cedbd0)
