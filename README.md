@@ -10,4 +10,4 @@ Here you can see my personal projects and code examples.
 
 I hope you can find useful information and resources in my repositories ✔️ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![waves-5437897_640](https://github.com/user-attachments/assets/425eb6cf-c604-4e3f-a610-ae0747cedbd0)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![waves-5437897_640](https://github.com/user-attachments/assets/425eb6cf-c604-4e3f-a610-ae0747cedbd0)
