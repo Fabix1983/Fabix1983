@@ -1,6 +1,6 @@
 👋 Welcome to my <b>GitHub profile</b>, my name is
 
-![divider-7736927_640](https://github.com/Fabix1983/Fabix1983/assets/149963958/e5f87217-5d35-46cf-abf5-ddb566ce5213)
+![divider-7736911_640](https://github.com/user-attachments/assets/044d8920-98ad-41d6-88c2-12e823ba3630)
 
 I have a degree in 📜<b>Informatic and Telecommunications Engineering</b> and i am a ⚡<b>Back-End Developer</b>, ⚡<b>Software Engineer</b> and ⚡<b>Data Engineer</b>.
 
