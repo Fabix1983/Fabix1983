@@ -8,5 +8,5 @@ Among my technical knowledge, the main ones are <b>✨C#, ✨VB-NET, ✨VBScript
 
 Here you can see my <b>personal projects</b> and <b>code examples</b>, i hope you can find <b>useful information and resources</b> in my repositories ✔️ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GraficGitHub](https://github.com/user-attachments/assets/a42dd5d0-e01d-43ff-92b7-014d55b91387)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GraficGitHub](https://github.com/user-attachments/assets/a42dd5d0-e01d-43ff-92b7-014d55b91387)
 
