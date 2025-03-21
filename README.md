@@ -1,6 +1,6 @@
 👋 Welcome to my <b>GitHub profile</b>, my name is <b><i><h3>Fabio Gianlorenzo</h3></i></b>
 
-I have a degree in 📜<b>Informatic and Telecommunications Engineering</b> and i am a ⚡<b>Back-End Developer</b>, ⚡<b>Software and Data Engineer</b>, ⚡<b>DB Administrator</b> and a ⚡<b>System Integrator</b>. 
+I have a degree in 📜<b>Informatic and Telecommunications Engineering</b> and i am a ⚡<b>Back-End Developer</b>, ⚡<b>Software and Data Engineer</b>, ⚡<b>DB Administrator</b> and a⚡<b>System Integrator</b>. 
 
 I have a good experience in Microsoft environments and languages, in the creation of <b>Web App, Api Rest, CRM, Web Site, Console App, Data Transformation Services (DTSx), Billing procedures, E-commerce, CRUD operations, DB storage and processing data</b>.
 
